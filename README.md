@@ -37,7 +37,8 @@ What are the top keywords in some more notable genres?
 
 What are the top keywords in movies overall?
 ### 5) Cast/Crew
-Add stuff here... 
+What are the ratio of male to female members of the movie casts and crews?
+What are the gender proportions in the movie casts and crews?
 
 ## Contributing DataRes Members :dancing_women:
 
